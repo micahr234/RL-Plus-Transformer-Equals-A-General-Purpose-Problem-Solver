@@ -61,3 +61,29 @@ For any questions or issues, please open an issue on this repository or contact 
 - Jesse Roberts: [jroberts@tntech.edu](mailto:jroberts@tntech.edu)
 
 
+## 📣 Citation
+
+If you use this work, please cite:
+
+```bibtex
+@inproceedings{rentschler-roberts-2025-rl,
+    title = "{RL} + Transformer = A General-Purpose Problem Solver",
+    author = "Rentschler, Micah  and
+      Roberts, Jesse",
+    editor = "Kamalloo, Ehsan  and
+      Gontier, Nicolas  and
+      Lu, Xing Han  and
+      Dziri, Nouha  and
+      Murty, Shikhar  and
+      Lacoste, Alexandre",
+    booktitle = "Proceedings of the 1st Workshop for Research on Agent Language Models (REALM 2025)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.realm-1.29/",
+    doi = "10.18653/v1/2025.realm-1.29,
+    pages = "401--410",
+    ISBN = "979-8-89176-264-0",
+}
+```
