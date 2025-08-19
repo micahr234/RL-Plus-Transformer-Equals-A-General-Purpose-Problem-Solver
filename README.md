@@ -67,7 +67,7 @@ If you use this work, please cite:
 
 ```bibtex
 @inproceedings{rentschler-roberts-2025-rl,
-    title = "{RL} + Transformer = A General-Purpose Problem Solver",
+    title = "RL + Transformer = A General-Purpose Problem Solver",
     author = "Rentschler, Micah  and
       Roberts, Jesse",
     editor = "Kamalloo, Ehsan  and
@@ -77,7 +77,7 @@ If you use this work, please cite:
       Murty, Shikhar  and
       Lacoste, Alexandre",
     booktitle = "Proceedings of the 1st Workshop for Research on Agent Language Models (REALM 2025)",
-    month = jul,
+    month = july,
     year = "2025",
     address = "Vienna, Austria",
     publisher = "Association for Computational Linguistics",
