@@ -53,16 +53,6 @@ Evaluate the trained model on new environments:
 Eval.ipynb - *make sure to add you huggingface username where appropriate*
 
 
-## License
-
-This project is licensed under the GNU V3 License - see the [LICENSE](LICENSE) file for details.
-
-
-## Acknowledgments
-
-We would like to thank the open-source community and the developers of LLaMA and related tools that made this research possible.
-
-
 ## Contact
 
 For any questions or issues, please open an issue on this repository or contact us at:
